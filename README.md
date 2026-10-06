@@ -5,7 +5,7 @@ An AI-powered image generation project built using Python and Google's Gemini AP
 This application takes user text prompts and generates AI-created images using Google's generative AI models.
 
 ## Features ✨
-
+  
 - 🎨 Generate images from text prompts
 - 🤖 Powered by Google Gemini AI
 - 🐍 Built using Python
